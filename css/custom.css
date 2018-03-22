@@ -8,3 +8,11 @@
     background-color: #008BDD;
     border-color: #008BDD;
 }
+
+h1 {
+    font-size: 2.84285714em;
+}
+
+.pad-right {
+    padding-right: 5px;
+}
