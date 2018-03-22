@@ -1,0 +1,10 @@
+/*! Place your custom styles here */
+.btn--blue {
+    background-color: #5CB6E4;
+    border-color: #5CB6E4;
+}
+
+.btn--blue:hover {
+    background-color: #008BDD;
+    border-color: #008BDD;
+}
