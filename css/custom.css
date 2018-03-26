@@ -28,3 +28,7 @@ h1 {
 .bg--third p.body {
   color: #393939;
 }
+
+.dark {
+    color: #000 !important;
+}
