@@ -16,3 +16,15 @@ h1 {
 .pad-right {
     padding-right: 5px;
 }
+
+.bg--third {
+  background: #D0E2F8;
+}
+
+.bg--third h2 {
+    color: #000;
+}
+
+.bg--third p.body {
+  color: #393939;
+}
