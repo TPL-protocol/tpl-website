@@ -27,6 +27,9 @@
 .btn--ghost .btn__text {
     color: #333;
 }
+.btn--ghost:visited .btn__text {
+    color: #333;
+}
 
 .btn--lightblue {
     background-color: #F7F9FC;
