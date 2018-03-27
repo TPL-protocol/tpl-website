@@ -1,12 +1,41 @@
 /*! Place your custom styles here */
-.btn--blue {
-    background-color: #5CB6E4;
-    border-color: #5CB6E4;
+.btn {
+  padding-top: 0.66428571em;
+  padding-bottom: 0.66428571em;
 }
 
-.btn--blue:hover {
-    background-color: #008BDD;
-    border-color: #008BDD;
+.add-top-margin {
+    margin-top: 1em;
+}
+
+.btn--gray {
+    background-color: #333 !important;
+    border-color: #333 !important;
+    color: #fff;
+}
+
+.btn--gray:hover {
+    background-color: #666 !important;
+    border-color: #666 !important;
+}
+
+.btn--ghost {
+    background-color: #fff !important;
+    border-color: #333 !important;
+    border-width: 2px;
+}
+.btn--ghost .btn__text {
+    color: #333;
+}
+
+.btn--lightblue {
+    background-color: #F7F9FC;
+    border-color: #F7F9FC !important;
+}
+
+.btn--white {
+    background-color: #fff;
+    border-color: #fff !important;
 }
 
 h1 {
@@ -15,4 +44,35 @@ h1 {
 
 .pad-right {
     padding-right: 5px;
+}
+
+.bg--third {
+  background: #F7F9FC;
+}
+
+.bg--third h2 {
+    color: #000;
+}
+
+.bg--third p.body {
+  color: #393939;
+}
+
+a.details {
+    color: #6772e5;
+    text-decoration: none;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+}
+
+.white {
+    color: #fff !important;
+}
+
+.extra-pad {
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
 }
